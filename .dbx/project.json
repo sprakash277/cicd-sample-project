@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "sumit-dbx-azure",
+      "workspace_dir": "/Shared/dbx/sumit/cicd_sample_project",
+      "artifact_location": "dbfs:/Shared/dbx/sumit/cicd_sample_project"
+    }
+  }
+}
